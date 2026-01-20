@@ -3,7 +3,7 @@
 <h2>4,619件のレコードのサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
-    <img src="https://github.com/luminati-io/Yapo-Chile-marketplace-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-jp/Yapo-Chile-marketplace-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 この **Yapo Chile Marketplace Ads Dataset Sample** には **4,619件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
