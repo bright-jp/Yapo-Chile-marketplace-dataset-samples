@@ -1,4 +1,4 @@
-# Yapo Chile Marketplace Ads Dataset Sample
+# Yapo Chile Marketplace Ads データセットサンプル
 
 <h2>4,619件のレコードのサンプルデータセット</h2>
 
