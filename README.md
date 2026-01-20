@@ -1,75 +1,75 @@
 # Yapo Chile Marketplace Ads Dataset Sample
 
-<h2>A sample dataset of 4,619 records</h2>
+<h2>4,619件のレコードのサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/Yapo-Chile-marketplace-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Yapo Chile Marketplace Ads Dataset Sample** includes **4,619 records** and was extracted using the **Bright Data API**.
+この **Yapo Chile Marketplace Ads Dataset Sample** には **4,619件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `title` | The title of the advertisement, providing a brief overview of the product or service. |
-| `description` | A detailed description of the advertisement content, outlining important features and details. |
-| `seller_name` | The name of the individual or entity posting the advertisement. |
-| `root_category_id` | The unique identifier for the root category of the advertisement. |
-| `root_category_name` | The name of the root category, indicating the general classification of the ad. |
-| `parent_category_id` | The unique identifier for the parent category, providing a sub-classification of the ad. |
-| `parent_category_name` | The name of the parent category for more specific ad classification. |
-| `active` | A boolean indicating whether the advertisement is currently active. |
-| `city` | The city where the advertisement is located or relevant. |
-| `region` | The region in Chile where the advertisement is relevant. |
-| `date_creation` | The date the advertisement was created, indicating its recency. |
-| `phone_image` | An image of the phone used in the ad, if applicable. |
-| `images` | Images associated with the advertisement, providing visual context. |
-| `price` | The price of the item or service being advertised. |
-| `publisher_type` | The type of publisher, such as individual or business. |
-| `ad_type` | The type of advertisement, such as for sale or rent. |
-| `estate_type` | The type of real estate, if applicable, such as apartment or house. |
-| `rooms` | The number of rooms in the property being advertised. |
-| `bathrooms` | The number of bathrooms in the property being advertised. |
-| `total_square` | The total square footage of the property being advertised. |
-| `expenses` | Additional expenses related to the advertisement, if any. |
-| `parking_lots` | Information about available parking lots, related to the ad. |
-| `other_amenities` | Other amenities offered with the product or service. |
-| `car_type` | The type of car, if the advertisement is related to vehicles. |
-| `mileage` | The mileage of the vehicle being advertised. |
-| `fuel` | The type of fuel used by the vehicle in the advertisement. |
-| `gearbox` | The type of gearbox in the vehicle advertised. |
-| `condition` | The condition of the item being advertised, new or used. |
-| `gender` | The gender of the seller, if specified. |
-| `main_phone` | The primary contact phone number for the advertisement. |
-| `phones` | Additional phone numbers provided for contact. |
-| `main_email` | The primary contact email address for the advertisement. |
-| `emails` | Additional email addresses for contacting the advertiser. |
-| `id` | A unique identifier for the advertisement. |
-| `url` | The URL link to the advertisement online. |
-| `seller_id` | A unique identifier for the seller of the advertisement. |
-| `currency` | The currency in which the price is listed in the advertisement. |
-| `built_square` | The built square footage of the property being advertised. |
-| `destaque` | Information on whether the ad is featured or highlighted. |
+| `title` | 広告のタイトルで、商品またはサービスの概要を簡潔に示します。 |
+| `description` | 広告内容の詳細な説明で、重要な特徴や詳細を示します。 |
+| `seller_name` | 広告を掲載している個人または組織の名前です。 |
+| `root_category_id` | 広告のルートカテゴリの一意の識別子です。 |
+| `root_category_name` | ルートカテゴリの名称で、広告の一般的な分類を示します。 |
+| `parent_category_id` | 親カテゴリの一意の識別子で、広告のサブ分類を示します。 |
+| `parent_category_name` | より具体的な広告分類のための親カテゴリ名です。 |
+| `active` | 広告が現在アクティブかどうかを示すブール値です。 |
+| `city` | 広告の所在地または関連する都市です。 |
+| `region` | 広告が関連するチリ国内の地域です。 |
+| `date_creation` | 広告が作成された日付で、新しさを示します。 |
+| `phone_image` | 該当する場合、広告で使用されている電話番号の画像です。 |
+| `images` | 広告に関連付けられた画像で、視覚的なコンテキストを提供します。 |
+| `price` | 広告されている商品またはサービスの価格です。 |
+| `publisher_type` | 個人や事業者など、掲載者の種類です。 |
+| `ad_type` | 販売や賃貸など、広告の種類です。 |
+| `estate_type` | 該当する場合、アパートや一戸建てなどの不動産タイプです。 |
+| `rooms` | 広告されている物件の部屋数です。 |
+| `bathrooms` | 広告されている物件のバスルーム数です。 |
+| `total_square` | 広告されている物件の総面積です。 |
+| `expenses` | 広告に関連する追加費用（ある場合）です。 |
+| `parking_lots` | 広告に関連する利用可能な駐車スペース情報です。 |
+| `other_amenities` | 商品またはサービスに付随するその他の設備・アメニティです。 |
+| `car_type` | 広告が車両に関する場合の車種です。 |
+| `mileage` | 広告されている車両の走行距離です。 |
+| `fuel` | 広告の車両で使用される燃料の種類です。 |
+| `gearbox` | 広告されている車両のギアボックスの種類です。 |
+| `condition` | 広告されている商品の状態（新品または中古）です。 |
+| `gender` | 指定されている場合、販売者の性別です。 |
+| `main_phone` | 広告の主要な連絡先電話番号です。 |
+| `phones` | 連絡先として提供される追加の電話番号です。 |
+| `main_email` | 広告の主要な連絡先メールアドレスです。 |
+| `emails` | 広告主への連絡用に提供される追加のメールアドレスです。 |
+| `id` | 広告の一意の識別子です。 |
+| `url` | オンライン上の広告へのURLリンクです。 |
+| `seller_id` | 広告の販売者の一意の識別子です。 |
+| `currency` | 広告に掲載されている価格の通貨です。 |
+| `built_square` | 広告されている物件の延床面積です。 |
+| `destaque` | 広告が注目掲載またはハイライトされているかどうかに関する情報です。 |
 
 
 ## Use Cases
 
 ### 1. Market Trend Analysis
-Analyze the data to identify emerging trends in the Chilean marketplace, helping businesses adapt to consumer demands.
+データを分析してチリのマーケットプレイスにおける新たなトレンドを特定し、企業が消費者の需要に適応するのに役立てます。
 
 ### 2. Real Estate Insights
-Utilize the dataset to gain insights into the real estate market in Chile, assisting property investors in making informed decisions.
+データセットを活用してチリの不動産市場に関するインサイトを得て、不動産投資家が十分な情報に基づく意思決定を行えるよう支援します。
 
 ### 3. Consumer Behavior Research
-Study consumer behavior patterns based on ad interactions, enabling targeted marketing strategies.
+広告への反応に基づいて消費者行動パターンを研究し、ターゲットを絞ったマーケティング戦略を可能にします。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で提供されます:
+- **CSV**（このサンプルに含まれます）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -89,8 +89,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます:
+- **Once**（一回限りの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -99,14 +99,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+特定の要件に基づき、追加のデータポイントでデータセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full Yapo Chile Marketplace Ads dataset](https://brightdata.com/products/datasets/olx)**
+**[Get the full Yapo Chile Marketplace Ads dataset](https://brightdata.jp/products/datasets/olx)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiativeは、環境および社会的課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)** および **[ready-to-use datasets](https://brightdata.jp/products/datasets)** への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+無料アクセスの申請は [brightinitiative.com](https://brightinitiative.com) から行えます。
